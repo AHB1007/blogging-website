@@ -8,3 +8,22 @@
 
 ## Setup/Installation Requirements
 
+1. Go to the GitHub project repository
+2. Download file as a zip file to extract OR clone project using the .git URL.
+3. Navigate to folder and open index.html
+
+## Known Bugs
+No known Bugs
+
+## Support and Contact Details
+For support contact Janet Karpenske, Andrew Barron, or Mook Dang.
+
+## Technologies Used
+
+Used HTML and CSS to create blog. Used Box Model styling technique.
+
+## Licensing
+
+Copyright (c) 2020 **_{Janet Karpenske, Mook Dang, Andrew Barron}_**
+
+This software is licensed under MIT license.
